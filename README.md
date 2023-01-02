@@ -1,4 +1,2 @@
-ldsakjlsdjldjfldsjf
-asldjfslfdjlsdfjlsdjfd;f
-test from feature branch1
 
+## my activities statistics 
